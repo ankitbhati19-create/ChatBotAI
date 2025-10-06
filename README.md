@@ -96,6 +96,7 @@ User Question → Vector Search (Local) → Relevant Chunks → GPT-3.5 API
                                                               ↓
                                                    Natural Language Answer
 ```
+<img width="2443" height="1244" alt="image" src="https://github.com/user-attachments/assets/8029f48b-eb9b-4eb4-9664-90eea2dde07a" />
 
 ### Non-Blocking Process Flow
 
