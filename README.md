@@ -1,4 +1,4 @@
-# 📚 AI-Powered Prodcut oferring Discovery and Plan Discovery chatBot
+# 📚 AI-Powered Telecom Product oferring Discovery and Plan Discovery chatBot
 
 A Streamlit-based chatbot that allows you to upload PDF documents and ask questions about their content. Features **non-blocking background processing**, automatic file monitoring with Watchdog, and persistent vector store caching. Powered by OpenAI's GPT-3.5-turbo and FAISS vector search for intelligent, context-aware responses.
 
